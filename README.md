@@ -15,7 +15,7 @@ TBH, I have not added many features that I planned to add. Sorry for that. Here 
 1.	DC++
 1.	LDAP Configuration
 1.	IITB-Wireless Configuration
-1.	DC++ auto file upload
+1.	DC++ auto file upload  (**buggy**)
 
 What I planned to add and will add in few days...
 1.	Timetable (as suggested by seniors of mine)
@@ -27,7 +27,8 @@ How to Install
 
 Installation process is pretty simple. 
 1.	Download the **Setup.py** from here or directly from [This Link](https://homepages.iitb.ac.in/~vaibhaw/Setup.zip)
-2.  Unzip it, inside it should be a **setup.exe** file. Open it in administrator mode, and other processes should be simple (I hope)
+2.	Unzip it, inside it should be a **setup.exe** file. Open it in administrator mode, and other processes should be simple (I hope)
+3.	All these files will get installed in "**C:/IITB/**" folder
 
 What other things you should do
 ----------------------------------
